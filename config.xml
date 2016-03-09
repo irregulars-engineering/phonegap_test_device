@@ -5,7 +5,7 @@
   <author href="https://www.irregulars-engineering.com" email="support@irregulars-engineering.com">Irregulars Engineering</author>
   <content src="index.html"/>
   <preference name="permissions" value="none"/>
-  <preference name="orientation" value="default"/>
+  <preference name="orientation" value="portrait"/>
   <preference name="target-device" value="universal"/>
   <preference name="webviewbounce" value="true"/>
   <preference name="prerendered-icon" value="true"/>
