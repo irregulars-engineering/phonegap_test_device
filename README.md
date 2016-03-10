@@ -1,2 +1,5 @@
 # phonegap_test_device
-PhoneGap application that shows us end user device information.
+PhoneGap device test application.
+
+This application is for internal tests only and should not be cloned.
+
